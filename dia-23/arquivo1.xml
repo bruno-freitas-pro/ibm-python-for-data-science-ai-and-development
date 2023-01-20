@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <pessoa>
+      <nome>Simão</nome>
+      <altura>66.90</altura>
+      <peso>110.37</peso>
+   </pessoa>
+   <pessoa>
+      <nome>Jacó</nome>
+      <altura>68.78</altura>
+      <peso>122.67</peso>
+   </pessoa>
+   <pessoa>
+      <nome>Cindy</nome>
+      <altura>64.49</altura>
+      <peso>125.45</peso>
+   </pessoa>
+   <pessoa>
+      <nome>Ivan</nome>
+      <altura>65.62</altura>
+      <peso>112.14</peso>
+   </pessoa>
+</data>
